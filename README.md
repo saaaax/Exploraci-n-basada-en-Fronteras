@@ -2,7 +2,7 @@
 
 ## Instalación
 
-### En primer lugar se clona el repositorio
+En primer lugar se clona el repositorio
 
 ```
 https://github.com/saaaax/Exploraci-n-basada-en-Fronteras.git
