@@ -1,0 +1,74 @@
+[0.013s] Invoking command in '/home/sahian/EL7009/proyecto_v2/el7009_diff_drive_robot/build/el7009_diff_drive_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/sahian/EL7009/proyecto_v2/el7009_diff_drive_robot -DCMAKE_INSTALL_PREFIX=/home/sahian/EL7009/proyecto_v2/el7009_diff_drive_robot/install/el7009_diff_drive_robot
+[0.102s] -- The C compiler identification is GNU 13.3.0
+[0.206s] -- The CXX compiler identification is GNU 13.3.0
+[0.231s] -- Detecting C compiler ABI info
+[0.404s] -- Detecting C compiler ABI info - done
+[0.425s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.425s] -- Detecting C compile features
+[0.427s] -- Detecting C compile features - done
+[0.446s] -- Detecting CXX compiler ABI info
+[0.645s] -- Detecting CXX compiler ABI info - done
+[0.665s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.666s] -- Detecting CXX compile features
+[0.667s] -- Detecting CXX compile features - done
+[0.673s] -- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.897s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[1.047s] -- Found ament_lint_auto: 0.17.2 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[1.212s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[1.212s] -- Configured cppcheck include dirs: 
+[1.212s] -- Configured cppcheck exclude dirs and/or files: 
+[1.214s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.215s] -- Configured 'flake8' exclude dirs and/or files: 
+[1.217s] -- Added test 'lint_cmake' to check CMake code style
+[1.219s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[1.226s] -- Added test 'uncrustify' to check C / C++ code style
+[1.226s] -- Configured uncrustify additional arguments: 
+[1.227s] -- Added test 'xmllint' to check XML markup files
+[1.230s] -- Configuring done (1.2s)
+[1.232s] -- Generating done (0.0s)
+[1.234s] -- Build files have been written to: /home/sahian/EL7009/proyecto_v2/el7009_diff_drive_robot/build/el7009_diff_drive_robot
+[1.240s] Invoked command in '/home/sahian/EL7009/proyecto_v2/el7009_diff_drive_robot/build/el7009_diff_drive_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/sahian/EL7009/proyecto_v2/el7009_diff_drive_robot -DCMAKE_INSTALL_PREFIX=/home/sahian/EL7009/proyecto_v2/el7009_diff_drive_robot/install/el7009_diff_drive_robot
+[1.241s] Invoking command in '/home/sahian/EL7009/proyecto_v2/el7009_diff_drive_robot/build/el7009_diff_drive_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/sahian/EL7009/proyecto_v2/el7009_diff_drive_robot/build/el7009_diff_drive_robot -- -j12 -l12
+[1.324s] Invoked command in '/home/sahian/EL7009/proyecto_v2/el7009_diff_drive_robot/build/el7009_diff_drive_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/sahian/EL7009/proyecto_v2/el7009_diff_drive_robot/build/el7009_diff_drive_robot -- -j12 -l12
+[1.346s] Invoking command in '/home/sahian/EL7009/proyecto_v2/el7009_diff_drive_robot/build/el7009_diff_drive_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/sahian/EL7009/proyecto_v2/el7009_diff_drive_robot/build/el7009_diff_drive_robot
+[1.363s] -- Install configuration: ""
+[1.364s] -- Installing: /home/sahian/EL7009/proyecto_v2/el7009_diff_drive_robot/install/el7009_diff_drive_robot/share/el7009_diff_drive_robot/launch
+[1.364s] -- Installing: /home/sahian/EL7009/proyecto_v2/el7009_diff_drive_robot/install/el7009_diff_drive_robot/share/el7009_diff_drive_robot/launch/rsp.launch.py
+[1.365s] -- Installing: /home/sahian/EL7009/proyecto_v2/el7009_diff_drive_robot/install/el7009_diff_drive_robot/share/el7009_diff_drive_robot/launch/slam.launch.py
+[1.365s] -- Installing: /home/sahian/EL7009/proyecto_v2/el7009_diff_drive_robot/install/el7009_diff_drive_robot/share/el7009_diff_drive_robot/launch/__pycache__
+[1.365s] -- Installing: /home/sahian/EL7009/proyecto_v2/el7009_diff_drive_robot/install/el7009_diff_drive_robot/share/el7009_diff_drive_robot/launch/__pycache__/robot.launch.cpython-312.pyc
+[1.365s] -- Installing: /home/sahian/EL7009/proyecto_v2/el7009_diff_drive_robot/install/el7009_diff_drive_robot/share/el7009_diff_drive_robot/launch/robot.launch.py
+[1.365s] -- Installing: /home/sahian/EL7009/proyecto_v2/el7009_diff_drive_robot/install/el7009_diff_drive_robot/share/el7009_diff_drive_robot/urdf
+[1.366s] -- Installing: /home/sahian/EL7009/proyecto_v2/el7009_diff_drive_robot/install/el7009_diff_drive_robot/share/el7009_diff_drive_robot/urdf/robot.urdf.xacro
+[1.366s] -- Installing: /home/sahian/EL7009/proyecto_v2/el7009_diff_drive_robot/install/el7009_diff_drive_robot/share/el7009_diff_drive_robot/urdf/inertial_macros.xacro
+[1.366s] -- Installing: /home/sahian/EL7009/proyecto_v2/el7009_diff_drive_robot/install/el7009_diff_drive_robot/share/el7009_diff_drive_robot/urdf/robot_core.xacro
+[1.366s] -- Installing: /home/sahian/EL7009/proyecto_v2/el7009_diff_drive_robot/install/el7009_diff_drive_robot/share/el7009_diff_drive_robot/urdf/gazebo_control.xacro
+[1.366s] -- Installing: /home/sahian/EL7009/proyecto_v2/el7009_diff_drive_robot/install/el7009_diff_drive_robot/share/el7009_diff_drive_robot/urdf/lidar.xacro
+[1.367s] -- Installing: /home/sahian/EL7009/proyecto_v2/el7009_diff_drive_robot/install/el7009_diff_drive_robot/share/el7009_diff_drive_robot/config
+[1.367s] -- Installing: /home/sahian/EL7009/proyecto_v2/el7009_diff_drive_robot/install/el7009_diff_drive_robot/share/el7009_diff_drive_robot/config/gz_bridge.yaml
+[1.367s] -- Installing: /home/sahian/EL7009/proyecto_v2/el7009_diff_drive_robot/install/el7009_diff_drive_robot/share/el7009_diff_drive_robot/worlds
+[1.367s] -- Installing: /home/sahian/EL7009/proyecto_v2/el7009_diff_drive_robot/install/el7009_diff_drive_robot/share/el7009_diff_drive_robot/worlds/empty.world
+[1.367s] -- Installing: /home/sahian/EL7009/proyecto_v2/el7009_diff_drive_robot/install/el7009_diff_drive_robot/share/el7009_diff_drive_robot/worlds/industrial-warehouse.sdf
+[1.367s] -- Installing: /home/sahian/EL7009/proyecto_v2/el7009_diff_drive_robot/install/el7009_diff_drive_robot/share/el7009_diff_drive_robot/worlds/three_rooms_world.sdf
+[1.368s] -- Installing: /home/sahian/EL7009/proyecto_v2/el7009_diff_drive_robot/install/el7009_diff_drive_robot/share/el7009_diff_drive_robot/worlds/obstacles.world
+[1.368s] -- Installing: /home/sahian/EL7009/proyecto_v2/el7009_diff_drive_robot/install/el7009_diff_drive_robot/share/el7009_diff_drive_robot/rviz
+[1.368s] -- Installing: /home/sahian/EL7009/proyecto_v2/el7009_diff_drive_robot/install/el7009_diff_drive_robot/share/el7009_diff_drive_robot/rviz/bot.rviz
+[1.368s] -- Installing: /home/sahian/EL7009/proyecto_v2/el7009_diff_drive_robot/install/el7009_diff_drive_robot/lib/el7009_diff_drive_robot/example_controller.py
+[1.368s] -- Installing: /home/sahian/EL7009/proyecto_v2/el7009_diff_drive_robot/install/el7009_diff_drive_robot/lib/el7009_diff_drive_robot/graficador.py
+[1.368s] -- Installing: /home/sahian/EL7009/proyecto_v2/el7009_diff_drive_robot/install/el7009_diff_drive_robot/lib/el7009_diff_drive_robot/frontier_explorer.py
+[1.369s] -- Installing: /home/sahian/EL7009/proyecto_v2/el7009_diff_drive_robot/install/el7009_diff_drive_robot/share/ament_index/resource_index/package_run_dependencies/el7009_diff_drive_robot
+[1.369s] -- Installing: /home/sahian/EL7009/proyecto_v2/el7009_diff_drive_robot/install/el7009_diff_drive_robot/share/ament_index/resource_index/parent_prefix_path/el7009_diff_drive_robot
+[1.369s] -- Installing: /home/sahian/EL7009/proyecto_v2/el7009_diff_drive_robot/install/el7009_diff_drive_robot/share/el7009_diff_drive_robot/environment/ament_prefix_path.sh
+[1.369s] -- Installing: /home/sahian/EL7009/proyecto_v2/el7009_diff_drive_robot/install/el7009_diff_drive_robot/share/el7009_diff_drive_robot/environment/ament_prefix_path.dsv
+[1.370s] -- Installing: /home/sahian/EL7009/proyecto_v2/el7009_diff_drive_robot/install/el7009_diff_drive_robot/share/el7009_diff_drive_robot/environment/path.sh
+[1.370s] -- Installing: /home/sahian/EL7009/proyecto_v2/el7009_diff_drive_robot/install/el7009_diff_drive_robot/share/el7009_diff_drive_robot/environment/path.dsv
+[1.370s] -- Installing: /home/sahian/EL7009/proyecto_v2/el7009_diff_drive_robot/install/el7009_diff_drive_robot/share/el7009_diff_drive_robot/local_setup.bash
+[1.370s] -- Installing: /home/sahian/EL7009/proyecto_v2/el7009_diff_drive_robot/install/el7009_diff_drive_robot/share/el7009_diff_drive_robot/local_setup.sh
+[1.370s] -- Installing: /home/sahian/EL7009/proyecto_v2/el7009_diff_drive_robot/install/el7009_diff_drive_robot/share/el7009_diff_drive_robot/local_setup.zsh
+[1.370s] -- Installing: /home/sahian/EL7009/proyecto_v2/el7009_diff_drive_robot/install/el7009_diff_drive_robot/share/el7009_diff_drive_robot/local_setup.dsv
+[1.370s] -- Installing: /home/sahian/EL7009/proyecto_v2/el7009_diff_drive_robot/install/el7009_diff_drive_robot/share/el7009_diff_drive_robot/package.dsv
+[1.370s] -- Installing: /home/sahian/EL7009/proyecto_v2/el7009_diff_drive_robot/install/el7009_diff_drive_robot/share/ament_index/resource_index/packages/el7009_diff_drive_robot
+[1.370s] -- Installing: /home/sahian/EL7009/proyecto_v2/el7009_diff_drive_robot/install/el7009_diff_drive_robot/share/el7009_diff_drive_robot/cmake/el7009_diff_drive_robotConfig.cmake
+[1.371s] -- Installing: /home/sahian/EL7009/proyecto_v2/el7009_diff_drive_robot/install/el7009_diff_drive_robot/share/el7009_diff_drive_robot/cmake/el7009_diff_drive_robotConfig-version.cmake
+[1.371s] -- Installing: /home/sahian/EL7009/proyecto_v2/el7009_diff_drive_robot/install/el7009_diff_drive_robot/share/el7009_diff_drive_robot/package.xml
+[1.373s] Invoked command in '/home/sahian/EL7009/proyecto_v2/el7009_diff_drive_robot/build/el7009_diff_drive_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/sahian/EL7009/proyecto_v2/el7009_diff_drive_robot/build/el7009_diff_drive_robot
